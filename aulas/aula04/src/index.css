@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: "boder-box";
+}
+
+body{
+  display: flex;
+  background-color: azure;
+  color: black;
+  height: 100hv;
+  justify-content: center;
+}
